@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import Die from "./components/Die";
-import { nanoid } from "nanoid";
+
+import { nanoid, random } from "nanoid";
 import Confetti from "react-confetti";
 
 export default function App() {
@@ -60,6 +61,7 @@ export default function App() {
       key={die.id}
       isHeld={die.isHeld}
       value={die.value}
+      img={"DieFace" + die.value}
       holdDice={() => holdDice(die.id)}
     />
   ));
