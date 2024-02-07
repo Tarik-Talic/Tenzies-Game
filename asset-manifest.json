@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tenzies-Game/static/css/main.e82e1403.css",
+    "main.js": "/Tenzies-Game/static/js/main.99342c9f.js",
+    "static/media/selected-dice-six-faces-six.svg": "/Tenzies-Game/static/media/selected-dice-six-faces-six.80695538c5877b5f677baff72d39cf26.svg",
+    "static/media/dice-six-faces-six.svg": "/Tenzies-Game/static/media/dice-six-faces-six.4aea6b4cc78796f7288f31c4aae244f7.svg",
+    "static/media/selected-dice-six-faces-five.svg": "/Tenzies-Game/static/media/selected-dice-six-faces-five.3d40ecef79159910be11692ed753b93d.svg",
+    "static/media/dice-six-faces-five.svg": "/Tenzies-Game/static/media/dice-six-faces-five.651389b530931f7c757c733bf2c8958b.svg",
+    "index.html": "/Tenzies-Game/index.html",
+    "static/media/selected-dice-six-faces-four.svg": "/Tenzies-Game/static/media/selected-dice-six-faces-four.6f6f3bcf4e6bc92442578f53ee590dbb.svg",
+    "static/media/dice-six-faces-four.svg": "/Tenzies-Game/static/media/dice-six-faces-four.d6408216a73cd62e3b51bd556d2efb5c.svg",
+    "static/media/selected-dice-six-faces-three.svg": "/Tenzies-Game/static/media/selected-dice-six-faces-three.36255106edd1fd69f17e5fba5f37be7d.svg",
+    "static/media/dice-six-faces-three.svg": "/Tenzies-Game/static/media/dice-six-faces-three.5a44678d6cb71e9e7628f06fe0bed381.svg",
+    "static/media/selected-dice-six-faces-two.svg": "/Tenzies-Game/static/media/selected-dice-six-faces-two.1c2da60c3b31feefa13627a341efaee2.svg",
+    "static/media/dice-six-faces-two.svg": "/Tenzies-Game/static/media/dice-six-faces-two.f317bca518c4ae25f77129632000e910.svg",
+    "static/media/selected-dice-six-faces-one.svg": "/Tenzies-Game/static/media/selected-dice-six-faces-one.4900bc69003393b9fc3e5b3d1c9ad8ba.svg",
+    "static/media/dice-six-faces-one.svg": "/Tenzies-Game/static/media/dice-six-faces-one.bd1d1c4d5654f44ac8a8b1be4bc9f28f.svg",
+    "main.e82e1403.css.map": "/Tenzies-Game/static/css/main.e82e1403.css.map",
+    "main.99342c9f.js.map": "/Tenzies-Game/static/js/main.99342c9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82e1403.css",
+    "static/js/main.99342c9f.js"
+  ]
+}
